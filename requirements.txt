@@ -46,7 +46,6 @@ seaborn==0.11.1
 service-identity==18.1.0
 six==1.15.0
 soupsieve==2.2
-Twisted @ file:///C:/Users/Henry/Downloads/Twisted-20.3.0-cp39-cp39-win_amd64.whl
 ua-parser==0.10.0
 urllib3==1.26.3
 user-agents==2.2.0
